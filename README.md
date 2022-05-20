@@ -10,5 +10,6 @@ Front-end Apps to work with this Spring Boot Server:
 mvn spring-boot:run
 ```
 ## Definitely needs to be changed
-@CrossOrigin("http://localhost:4200") in folder FileController 
+@CrossOrigin("http://localhost:4200") in folder FileController
 ```
+
