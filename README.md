@@ -10,5 +10,6 @@ Front-end Apps to work with this Spring Boot Server:
 mvn spring-boot:run
 ```
 ## Definitely needs to be changed
-1. @CrossOrigin("http://localhost:4200") in folder FileController(replace with the port you will use in angular)
-
+1. @CrossOrigin("http://localhost:4200") in folder "FileController"(replace with the port you will use in angular)
+2. Change "application.properties" 
+3. java version 1.8
