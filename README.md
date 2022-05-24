@@ -3,7 +3,7 @@ This repository was created for the 3dscanner startup backend, with detailed ins
 
 
 Front-end Apps to work with this Spring Boot Server:
-- [Angular]([сылка](https://github.com/StatTrakR0/-ScannerFrontend))
+- [Angular]([https://github.com/StatTrakR0/-ScannerFrontend])
 
 ## Run Spring Boot application
 ```
