@@ -4,7 +4,7 @@ This repository was created for the 3dscanner startup backend, with detailed ins
 
 Front-end Apps to work with this Spring Boot Server:
 - [Angular](https://github.com/StatTrakR0/-ScannerFrontend)
-Branch name - SpringBootMovementCRUD
+Branch name - AngularMovementCRUD
 
 ## Run Spring Boot application
 ```
